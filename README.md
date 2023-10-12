@@ -20,7 +20,8 @@ If you don't wish to perform the data loading part, you can directly download th
 
 
 # ERD
-C:\Users\amars\Downloads\ERD.jpeg
+![ERD](https://github.com/Amar13121997/RSVP-CASE-STUDY/assets/114126910/f207e112-ebe2-46b8-8604-e6c3c95751e4)
+
 
 ## Support
 Give a ⭐️ if you like this project!
